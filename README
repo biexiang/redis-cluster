@@ -1,0 +1,5 @@
+## Redis Cluster 
+* redis-server 加入环境变量 
+* git clone this project 
+* ./serverUp.sh
+* ./makeCluster.sh
